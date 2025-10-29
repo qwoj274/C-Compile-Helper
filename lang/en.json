@@ -1,0 +1,18 @@
+{
+    "K_AVAILAVBLE_COMPILERS" : "Available compilers on your PC: ",
+    "K_WTU" : "Which to use?",
+    "K_CHOOSEN_COMPILER" : "Choosen compiler: ",
+    "K_INVALID_INPUT" : "Invalid input! Exiting...",
+    "K_NO_COMPILERS" : "No compilers found! Please, download one.\nIf you already downloaded, then set up PATH variable correctly.",
+    "K_NO_CPP" : "No one CPP files found in current directory!",
+    "K_PRESS_ANY_KEY" : "Press any key to continue...",
+    "K_COMPILER_TESTING" : "Testing compiler: ",
+    "K_COMPILER_PASSED" : "Compiler passed!",
+    "K_COMPILER_FAILED" : "Compiler failed!",
+    "K_COMPILER_ARGS_CLARIFY" : "Please, check args before compilation: ",
+    "K_CPP_FILES" : "Found CPP Files: ",
+    "K_WFU" : "Choice CPP to be compiled",
+    "K_CHOOSEN_CPP" : "Choosen CPP: ",
+    "K_COMPILATION_PROCESS" : "Compilation and output will occur after your confirmation!\nThanks for using of my script!",
+    "K_EXITCODE" : "Exit code: "
+}
