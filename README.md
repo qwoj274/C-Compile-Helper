@@ -1,6 +1,6 @@
 # C++ Compile Helper
 **EN:**
-This script makes it easy to compile C/C++ files without fiddling with build systems or searching for compilers. It automatically finds potential compilers, checks their functionality, and then offers you a convenient list of compilers to compile your files with. This project may be not useless to experienced users (or even to everyone). I created it simply because I need programming practice. I'd be happy if this simple utility helps C++ beginners.
+This script makes it easy to compile C/C++ files without fiddling with build systems or searching for compilers. It automatically finds potential compilers, checks their functionality, and then offers you a convenient list of compilers to compile your files with. This project may be useless to experienced users (or even to everyone). I created it simply because I need programming practice. I'd be happy if this simple utility helps C++ beginners.
 ##
 **RU:**
 Этот скрипт позволяет легко компилировать C/C++ файлы, не возясь с системами сборки и поиском компиляторов. Он автоматически находит потенциальные компиляторы, проверяет их на работоспособность, а затем предлагает вам скомпилировать свои файлы с помощью него, выводя удобный список.
