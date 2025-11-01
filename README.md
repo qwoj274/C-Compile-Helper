@@ -5,7 +5,7 @@ This script makes it easy to compile C/C++ files without fiddling with build sys
 **RU:**
 Этот скрипт позволяет легко компилировать C/C++ файлы, не возясь с системами сборки и поиском компиляторов. Он автоматически находит потенциальные компиляторы, проверяет их на работоспособность, а затем предлагает вам скомпилировать свои файлы с помощью него, выводя удобный список.
 
-Возможно, этот проект не будет бесполезен опытным пользователям (а может даже и всем). Я сделал его лишь потому, что мне нужна практика в программировании. Я буду рад, если новичкам в C++ поможет эта простая утилита. 
+Возможно, этот проект будет бесполезен опытным пользователям (а может даже и всем). Я сделал его лишь потому, что мне нужна практика в программировании. Я буду рад, если новичкам в C++ поможет эта простая утилита. 
 # Usage / Использование
 **EN:**
 Download archive from [release](https://github.com/qwoj274/C-Compile-Helper/releases/tag/release). Unzip it into the same folder as your cpp file, then run `build.exe`.  The compilation result will be displayed in the console. If anything goes wrong, you can check `./debug/log.txt`. 
